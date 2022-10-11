@@ -18,7 +18,7 @@ O objetivo deste projeto é utilizar a linguagem Python, para criar um modelo de
   - Informações das contas.
   - Informações dos serviços contratados.
 
-Este tipo de estudo/projeto oferece a empresa a capacidade de basear suas decisões e planejamento estratégico a partir de dados, com o intuito de diminuir as taxas de Churn, e consequentemente melhorarando a satisfação dos clientes e as receitas da empresa.
+Este tipo de estudo/projeto oferece a empresa a capacidade de basear suas decisões e planejamento estratégico a partir de dados, com o intuito de diminuir as taxas de Churn, e consequentemente melhorando a satisfação dos clientes e as receitas da empresa.
 
 ## **Dataset**
 
