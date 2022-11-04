@@ -8,7 +8,7 @@ A taxa de Churn, é a taxa na qual os clientes param de fazer negócios com uma 
 
 Uma alta taxa de churn pode afetar negativamente os lucros e impedir o crescimento de uma empresa. A taxa de churn é um fator importantissímo no setor de telecomunicações. Visto que, por conta da competição entre as empresas, é bastante cômodo para os clientes a transferência de um fornecedor para outro.
 
-A taxa de cancelamento não inclui apenas quando os clientes mudam de operadora, mas também quando os clientes simplismente encerram o serviço. Essa medida é mais valiosa em negócios baseados em assinantes, nos quais as taxas de assinatura compreendem a maior parte das receitas. O que é considerado uma taxa de churn boa ou ruim pode variar de setor para setor
+A taxa de cancelamento não inclui apenas quando os clientes mudam de operadora, mas também quando os clientes simplesmente encerram o serviço. Essa medida é mais valiosa em negócios baseados em assinantes, nos quais as taxas de assinatura compreendem a maior parte das receitas. O que é considerado uma taxa de churn boa ou ruim pode variar de setor para setor
 
 Prever este tipo de comportamento é vital para empresas de telecomunicações possam manter seus clientes. Tendo em vista o fato de ser muito mais custoso conseguir novos usuários do que manter os antigos, empresas visam cada vez mais novos métodos de prever este tipo de comportamento.
 
