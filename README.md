@@ -22,9 +22,9 @@ Este tipo de estudo/projeto oferece a empresa a capacidade de basear suas decis�
 
 ## **Dataset**
 
-O dataset usado neste projeto está disponível na plataforma do Kaggle: 
+O dataset usado neste projeto está disponível no link a baixo: 
 
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
 
 Com 19 colunas de variáveis independentes que indicam as características de clientes de uma empresa fictícia de telecomunicações. A coluna **Churn** indica se o cliente finalizou ou não suas relações com a empresa a no mínimo um mês. A classe **No** inclue os clientes no qual continuam utilizando os serviços da companhia no último mês, já a classe **Yes** contém os clientes que decidiram finalizar suas relaçoes com a empresa.
 
@@ -48,8 +48,8 @@ Cada linha do dataset representa um cliente, sendo cada coluna as informações 
   - Contract - Tipo de contrato do cliente (Month-to-Month, One year, Two year).
   - PaperlessBilling - Cliente recebe sua fatura online? (Yes, No)
   - PaymentMethod - Metódo de pagamento (Electronic check, Mailed check, Bank transfer (automatic), Credit Card (automatic)).
-  - MontlyCharges - Valor cobrado mensalmente (Variável Númerica).
-  - TotalCharges: Valor total cobrado (Variável Númerica)
+  - MontlyCharges - Valor cobrado mensalmente (Variável Numérica).
+  - TotalCharges: Valor total cobrado (Variável Numérica)
 
 - **Informaçoes demográficas sobre os clientes:**
   - Gender - Sexo do cliente (Female, Male)
